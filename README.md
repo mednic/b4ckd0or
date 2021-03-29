@@ -1,11 +1,10 @@
 # b4ckd0or
-#           /\
-#          / \\ /\
-#   /\  /\/  \\V  \/\
-#  / \\/ // \\\\\ \\ \/\
-# // //The-Dark-Hall\/ \\
-#/https://github.com/mednic\
-
+            /\
+           / \\ /\
+      /\  /\/  \\V  \/\
+     / \\/ // \\\\\ \\ \/\
+    //  / Mednc1c \/ \\
+   
 Simple bind backdoor destined for linux servers
 Use:
 
